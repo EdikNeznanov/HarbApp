@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HarbApp</string>
+    <string name="close">Close</string>
+    <string name="current_temp">It\'s %1$.2f °C at %2$s</string>
+    <string name="current_weather">Currently: %1$s</string>
+    <string name="min_max_temp">Min/Max: %1$.2f - %2$.2f °C</string>
+</resources>
